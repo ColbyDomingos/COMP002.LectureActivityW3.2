@@ -1,3 +1,5 @@
+
+alert("READ CONSOLE")
 function greet(name) {
     return "Hola, " + name + "!";
 }
